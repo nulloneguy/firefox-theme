@@ -17,6 +17,7 @@ To install the theme:
 4. Create a chrome directory if it doesn't exist:
 
 `mkdir -p chrome`
+
 `cd chrome`
 
 5. Copy the userChrome.css file from this repository to that folder
